@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anthai/c++xgboost/src/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

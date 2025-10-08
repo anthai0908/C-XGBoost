@@ -1,0 +1,3 @@
+/Users/anthai/c++xgboost/src/build/CMakeFiles/xgb_mini.dir
+/Users/anthai/c++xgboost/src/build/CMakeFiles/edit_cache.dir
+/Users/anthai/c++xgboost/src/build/CMakeFiles/rebuild_cache.dir
